@@ -62,7 +62,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 **Laiyi Fu**, Wenkai Cui, Yifan Chen, Danyang Wu&#42; and Hequan Sun&#42;. *Briefings in Bioinformatics* (2026).
 
-[Code / platform](https://github.com/AI4Bread/stCAMBL) · [AI4Bread](http://www.ai4bread.com/)
+[Code](https://github.com/AI4Bread/stCAMBL) · [Online tutorial](https://stcambl.readthedocs.io/en/latest/)
 </div>
 </div>
 
@@ -84,7 +84,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 **Laiyi Fu**, Yangyi Zhou, Hongqiang Lyu&#42; and Hequan Sun&#42;. *Briefings in Bioinformatics* (2025).
 
-[Code](https://github.com/AI4Bread/DBATNDA) · [Data](https://kdocs.cn/l/cjN966QZBmw6)
+[Code](https://github.com/AI4Bread/DBATNDA) · [Data](https://zenodo.org/records/15336759) · [Web server](http://ai4bread.com:8013)
 </div>
 </div>
 
@@ -103,6 +103,28 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 <details class="publication-archive">
 <summary>More publications and graphical abstracts</summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research, 2022</div><img src='images/publications/ufold.jpg' alt="UFold graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UFold: Fast and Accurate RNA Secondary Structure Prediction with Deep Learning](https://doi.org/10.1093/nar/gkab1074)
+
+**Laiyi Fu**, Yingxin Cao, Jie Wu, Qinke Peng, Qing Nie and Xiaohui Xie. *Nucleic Acids Research* (2022).
+
+[Code](https://github.com/uci-cbcl/UFold) · [Web server](http://146.56.237.198:3838/UFold/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research, 2022</div><img src='images/publications/sailerx.png' alt="SAILERX graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrated Analysis of Multimodal Single-Cell Data with Structural Similarity](https://doi.org/10.1093/nar/gkac781)
+
+Yingxin Cao, **Laiyi Fu**, Jie Wu, Qinke Peng, Qing Nie, Jing Zhang and Xiaohui Xie. *Nucleic Acids Research* (2022).
+
+[Code](https://github.com/uci-cbcl/SAILERX) · [Data](https://drive.google.com/drive/folders/1yQeF3Ch_yZg2hXRcTe9X30ilQB_qaRq1?usp=sharing)
+</div>
+</div>
 
 Additional publications, together with graphical abstracts and project links, can be added here as they become available. For a complete and up-to-date list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5GT4MB4AAAAJ).
 
