@@ -28,7 +28,7 @@ I welcome enquiries from motivated undergraduate and graduate students who are i
 
 # News
 
-- *2026* — **UFold-X: An Enhanced Dual & Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction** was accepted for publication in *Nucleic Acids Research* and is now in press.
+- *2026-08* — **UFold-X: An Enhanced Dual & Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction** was accepted for publication in *Nucleic Acids Research* and is now in press. Congrats to the team! 🥂
 - *2026-05* — A paper on biased multi-view contrastive learning with attentive masking for spatial transcriptomic analysis was published in *Briefings in Bioinformatics*.
 - *2026-01* — The S3RL framework for separable spatial single-cell transcriptome representation learning was officially published in *Advanced Science*.
 - *2026-01* — A paper from the AI4Bread team was accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*; the work develops EBMGC-GNF for efficient multi-view graph clustering.
@@ -52,7 +52,9 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 [UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction](https://github.com/AI4Bread/UFold-X)
 
-**Laiyi Fu**, Jiachun Li, Ruiqi Wang, Hequan Sun, and Danyang Wu. *Nucleic Acids Research* (2026, in press).
+**Laiyi Fu**, Jiachun Li, Ruiqi Wang, Hequan Sun&#42; and Danyang Wu&#42;. *Nucleic Acids Research* (2026, in press).
+
+[Code](https://github.com/AI4Bread/UFold-X) · [Web server](https://ufold-x.ai4bread.com/) · [Data and software record](https://zenodo.org/records/20668404)
 </div>
 </div>
 
@@ -61,7 +63,9 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 [Biased Multi-view Contrastive Learning with Attentive Masking for Spatial Transcriptomic Analysis](https://doi.org/10.1093/bib/bbag215)
 
-**Laiyi Fu**, Wenkai Cui, Yifan Chen, Danyang Wu and Hequan Sun. *Briefings in Bioinformatics* (2026).
+**Laiyi Fu**, Wenkai Cui, Yifan Chen, Danyang Wu&#42; and Hequan Sun&#42;. *Briefings in Bioinformatics* (2026).
+
+[Code / platform](https://github.com/AI4Bread/stCAMBL) · [AI4Bread](http://www.ai4bread.com/)
 </div>
 </div>
 
@@ -70,29 +74,42 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 [S3RL: Enhancing Spatial Single-Cell Transcriptomics With Separable Representation Learning](https://doi.org/10.1002/advs.202516178)
 
-**Laiyi Fu**, Penglei Wang, Gaoyuan Xu, Jitao Lu, Qinke Peng, Danyang Wu and Hequan Sun. *Advanced Science* (2026).
+**Laiyi Fu&#8224;**, **Penglei Wang&#8224;**, **Gaoyuan Xu&#8224;**, Jitao Lu, Qinke Peng, Danyang Wu&#42; and Hequan Sun&#42;. *Advanced Science* (2026).
+
+[Code](https://github.com/AI4Bread/S3RL) · [Tutorial](https://s3rl.readthedocs.io/en/latest/) · [Data](https://zenodo.org/records/15222342)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics, 2025</div><img src='images/publications/dual-balanced.jpg' alt="Dual balanced augmented topological framework graphical abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dual Balanced Augmented Topological Non-coding RNA Disease Association in Heterogeneous Graphs](https://doi.org/10.1093/bib/bbaf389)
+[Dual Balanced Augmented Topological Noncoding RNA Disease Triplet Association in Heterogeneous Graphs](https://doi.org/10.1093/bib/bbaf389)
 
-**Laiyi Fu**, Yangyi Zhou, Hongqiang Lyu and Hequan Sun. *Briefings in Bioinformatics* (2025).
+**Laiyi Fu**, Yangyi Zhou, Hongqiang Lyu&#42; and Hequan Sun&#42;. *Briefings in Bioinformatics* (2025).
+
+[Code](https://github.com/AI4Bread/DBATNDA) · [Data](https://kdocs.cn/l/cjN966QZBmw6)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances, 2020</div><img src='images/publications/scfan.png' alt="scFAN graphical abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Predicting transcription factor binding in single cells through deep learning](https://doi.org/10.1126/sciadv.aba9031)
+[Predicting Transcription Factor Binding in Single Cells Through Deep Learning](https://doi.org/10.1126/sciadv.aba9031)
 
-**Laiyi Fu**, Lihua Zhang, Emmanuel Dollinger, Qinke Peng, Qing Nie<sup>*</sup> and Xiaohui Xie<sup>*</sup>. *Science Advances* (2020).
+**Laiyi Fu**, Lihua Zhang, Emmanuel Dollinger, Qinke Peng, Qing Nie&#42; and Xiaohui Xie&#42;. *Science Advances* (2020).
+
+[Code](https://github.com/sperfu/scFAN)
 </div>
 </div>
 
-<small>* corresponding author.</small>
+<small>&#8224; Co-first authors; &#42; corresponding authors.</small>
+
+<details class="publication-archive">
+<summary>More publications and graphical abstracts</summary>
+
+Additional publications, together with graphical abstracts and project links, can be added here as they become available. For a complete and up-to-date list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5GT4MB4AAAAJ).
+
+</details>
 
 <span class='anchor' id='appointments-education'></span>
 
