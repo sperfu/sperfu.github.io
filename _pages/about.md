@@ -93,7 +93,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 [Parallel Seeds: From Foundation Models to Foundation Intelligence for Agricultural Sustainability](https://doi.org/10.1109/JAS.2024.124914)
 
-**Laiyi Fu**, Shunkang Ling, Danyang Wu, Mengzhen Kang, Fei-Yue Wang and Hequan Sun. *IEEE/CAA Journal of Automatica Sinica* (2025).
+**Laiyi Fu**, Shunkang Ling, Danyang Wu&#42;, Mengzhen Kang, Fei-Yue Wang and Hequan Sun&#42;. *IEEE/CAA Journal of Automatica Sinica* (2025).
 </div>
 </div>
 
@@ -118,7 +118,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 [UFold: Fast and Accurate RNA Secondary Structure Prediction with Deep Learning](https://doi.org/10.1093/nar/gkab1074)
 
-**Laiyi Fu**, Yingxin Cao, Jie Wu, Qinke Peng, Qing Nie and Xiaohui Xie. *Nucleic Acids Research* (2022).
+**Laiyi Fu&#8224;**, **Yingxin Cao&#8224;**, Jie Wu, Qinke Peng, Qing Nie and Xiaohui Xie&#42;. *Nucleic Acids Research* (2022).
 
 [Code](https://github.com/uci-cbcl/UFold) · [Web server](http://146.56.237.198:3838/UFold/)
 </div>
@@ -129,7 +129,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 [Integrated Analysis of Multimodal Single-Cell Data with Structural Similarity](https://doi.org/10.1093/nar/gkac781)
 
-Yingxin Cao, **Laiyi Fu**, Jie Wu, Qinke Peng, Qing Nie, Jing Zhang and Xiaohui Xie. *Nucleic Acids Research* (2022).
+**Yingxin Cao&#8224;**, **Laiyi Fu&#8224;**, Jie Wu, Qinke Peng, Qing Nie, Jing Zhang&#42; and Xiaohui Xie&#42;. *Nucleic Acids Research* (2022).
 
 [Code](https://github.com/uci-cbcl/SAILERX) · [Data](https://drive.google.com/drive/folders/1yQeF3Ch_yZg2hXRcTe9X30ilQB_qaRq1?usp=sharing)
 </div>
