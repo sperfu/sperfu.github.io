@@ -31,11 +31,8 @@ I welcome enquiries from motivated undergraduate and graduate students who are i
 - *2026-08* — **UFold-X: An Enhanced Dual & Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction** was accepted for publication in *Nucleic Acids Research* and is now in press. Congrats to the team! 🥂
 - *2026-05* — A paper on biased multi-view contrastive learning with attentive masking for spatial transcriptomic analysis was published in *Briefings in Bioinformatics*.
 - *2026-01* — The S3RL framework for separable spatial single-cell transcriptome representation learning was officially published in *Advanced Science*.
-- *2026-01* — A paper from the AI4Bread team was accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*; the work develops EBMGC-GNF for efficient multi-view graph clustering.
 - *2025-11* — The AI4Bread team published a Multi-level Interactive Siamese-Filtering Enhancement and Restoration (MISFR) network for low-light architectural mural imaging in *Frontiers of Architectural Research*.
 - *2025-08* — A dual-balanced augmented topological framework for non-coding RNA–disease association prediction was published in *Briefings in Bioinformatics*.
-- *2025-04* — A nearly complete phased pan-genome of tetraploid European potato was published in *Nature*, providing a resource for genomics-assisted crop breeding.
-- *2025-04* — A paper introducing the Triangle Topology Enhancement module for multi-view graph clustering was accepted by *IEEE Transactions on Knowledge and Data Engineering*.
 - *2025-03* — A multi-receptive-field strategy for enhancing and restoring mural images under low-light and defective conditions was published in *npj Heritage Science*.
 - *2025-03* — The Parallel Seeds framework, which connects foundation models with foundation intelligence for agricultural sustainability, was published in *IEEE/CAA Journal of Automatica Sinica*.
 
