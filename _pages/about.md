@@ -126,7 +126,7 @@ Yingxin Cao, **Laiyi Fu**, Jie Wu, Qinke Peng, Qing Nie, Jing Zhang and Xiaohui 
 </div>
 </div>
 
-Additional publications, together with graphical abstracts and project links, can be added here as they become available. For a complete and up-to-date list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5GT4MB4AAAAJ).
+For a complete and up-to-date publication list, please visit my <a href="https://scholar.google.com/citations?user=5GT4MB4AAAAJ">Google Scholar profile</a>.
 
 </details>
 
