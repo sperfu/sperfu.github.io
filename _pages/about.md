@@ -88,6 +88,15 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA Journal of Automatica Sinica, 2025</div><img src='images/publications/parallel-seeds.png' alt="Parallel Seeds graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parallel Seeds: From Foundation Models to Foundation Intelligence for Agricultural Sustainability](https://doi.org/10.1109/JAS.2024.124914)
+
+**Laiyi Fu**, Shunkang Ling, Danyang Wu, Mengzhen Kang, Fei-Yue Wang and Hequan Sun. *IEEE/CAA Journal of Automatica Sinica* (2025).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances, 2020</div><img src='images/publications/scfan.png' alt="scFAN graphical abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
