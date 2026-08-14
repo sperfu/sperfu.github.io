@@ -107,3 +107,15 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.publication-archive {
+    margin: 1.5em 0 2em;
+    padding: .75em 1em;
+    border: 1px #efefef solid;
+
+    summary {
+        cursor: pointer;
+        color: #00369f;
+        font-weight: 600;
+    }
+}
