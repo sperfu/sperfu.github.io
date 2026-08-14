@@ -28,6 +28,7 @@ I welcome enquiries from motivated undergraduate and graduate students who are i
 
 # News
 
+- *2026* — **UFold-X: An Enhanced Dual & Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction** was accepted for publication in *Nucleic Acids Research* and is now in press.
 - *2026-05* — A paper on biased multi-view contrastive learning with attentive masking for spatial transcriptomic analysis was published in *Briefings in Bioinformatics*.
 - *2026-01* — The S3RL framework for separable spatial single-cell transcriptome representation learning was officially published in *Advanced Science*.
 - *2026-01* — A paper from the AI4Bread team was accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*; the work develops EBMGC-GNF for efficient multi-view graph clustering.
@@ -37,12 +38,8 @@ I welcome enquiries from motivated undergraduate and graduate students who are i
 - *2025-04* — A paper introducing the Triangle Topology Enhancement module for multi-view graph clustering was accepted by *IEEE Transactions on Knowledge and Data Engineering*.
 - *2025-03* — A multi-receptive-field strategy for enhancing and restoring mural images under low-light and defective conditions was published in *npj Heritage Science*.
 - *2025-03* — The Parallel Seeds framework, which connects foundation models with foundation intelligence for agricultural sustainability, was published in *IEEE/CAA Journal of Automatica Sinica*.
-- *2024-12* — The paper “User Linguistic Style Awareness and Interest-Driven Conversational Recommender Systems” received the Best Paper Award at IEEE DTPI 2024.
-- *2024-10* — The findGSEP method for estimating the genome size of polyploid species from k-mer frequencies was published in *Bioinformatics*.
-- *2024-10* — ACLNDA, an asymmetric graph contrastive learning framework for non-coding RNA–disease association prediction, was published in *Briefings in Bioinformatics*.
-- *2024-07* — A collaborative study in *Genome Biology* showed that the vast majority of somatic mutations in plants are layer-specific.
-- *2024-04* — Three collaborative studies were accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*, *IEEE Transactions on Neural Networks and Learning Systems*, and *IEEE Transactions on Signal Processing*.
-- *2023-08* — KGETCDA, a knowledge-graph encoder framework for circRNA–disease association prediction, was published in *Briefings in Bioinformatics*.
+
+Earlier updates are available in the [AI4BREAD news archive](http://www.ai4bread.com/post/).
 
 <span class='anchor' id='publications'></span>
 
@@ -50,19 +47,52 @@ I welcome enquiries from motivated undergraduate and graduate students who are i
 
 Selected publications are listed chronologically, from newest to oldest. For a complete and up-to-date list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5GT4MB4AAAAJ).
 
-- [Biased Multi-view Contrastive Learning with Attentive Masking for Spatial Transcriptomic Analysis](https://doi.org/10.1093/bib/bbag215). **Laiyi Fu**, Wenkai Cui, Yifan Chen, Danyang Wu and Hequan Sun. *Briefings in Bioinformatics* (2026).
-- [S3RL: Enhancing Spatial Single-Cell Transcriptomics With Separable Representation Learning](https://doi.org/10.1002/advs.202516178). **Laiyi Fu**, Penglei Wang, Gaoyuan Xu, Jitao Lu, Qinke Peng, Danyang Wu and Hequan Sun. *Advanced Science* (2026).
-- [Dual Balanced Augmented Topological Non-coding RNA Disease Association in Heterogeneous Graphs](https://doi.org/10.1093/bib/bbaf389). **Laiyi Fu**, Yangyi Zhou, Hongqiang Lyu and Hequan Sun. *Briefings in Bioinformatics* (2025).
-- [Progressive enhancement and restoration for mural images under low-light and defective conditions based on multi-receptive field strategy](https://doi.org/10.1038/s40494-025-01635-9). Xiameng Wei, Binbin Fan, Ying Wang, Yanxiang Feng and **Laiyi Fu**. *npj Heritage Science* (2025).
-- [Parallel Seeds: From Foundation Models to Foundation Intelligence for Agricultural Sustainability](https://doi.org/10.1109/JAS.2024.124914). **Laiyi Fu**, Shunkang Ling, Danyang Wu, Mengzhen Kang, Fei-Yue Wang and Hequan Sun. *IEEE/CAA Journal of Automatica Sinica* (2025).
-- [findGSEP: estimating genome size of polyploid species using k-mer frequencies](https://doi.org/10.1093/bioinformatics/btae647). **Laiyi Fu**, Yanxin Xie, Shunkang Ling, Ying Wang, Binzhong Wang, Hejun Du, Qinke Peng and Hequan Sun. *Bioinformatics* (2024).
-- [ACLNDA: an asymmetric graph contrastive learning framework for predicting noncoding RNA–disease associations in heterogeneous graphs](https://doi.org/10.1093/bib/bbae533). **Laiyi Fu**, Zhiyuan Yao, Yangyi Zhou, Qinke Peng and Hongqiang Lyu. *Briefings in Bioinformatics* (2024).
-- [KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA–disease associations](http://www.ai4bread.com/publication/10/). Jinyang Wu, Zhiwei Ning, Yidong Ding, Ying Wang, Qinke Peng and **Laiyi Fu**<sup>*</sup>. *Briefings in Bioinformatics* (2023).
-- [UFold: fast and accurate RNA secondary structure prediction with deep learning](https://doi.org/10.1093/nar/gkab1223). **Laiyi Fu**†, **Yingxin Cao**†, Jie Wu, Qinke Peng, Qing Nie and Xiaohui Xie*. *Nucleic Acids Research* (2022).
-- [Integrated analysis of multimodal single-cell data with structural similarity](https://doi.org/10.1093/nar/gkac889). Yingxin Cao†, **Laiyi Fu**†, Jie Wu, Qinke Peng, Qing Nie, Jing Zhang* and Xiaohui Xie*. *Nucleic Acids Research* (2022).
-- [Predicting transcription factor binding in single cells through deep learning](https://doi.org/10.1126/sciadv.aba9031). **Laiyi Fu**, Lihua Zhang, Emmanuel Dollinger, Qinke Peng, Qing Nie* and Xiaohui Xie*. *Science Advances* (2020).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research, 2026</div><img src='images/publications/ufold-x.jpg' alt="UFold-X graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-† Co-first authors; * corresponding author, following the author-contribution markings in the AI4Bread publication records.
+[UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction](https://github.com/AI4Bread/UFold-X)
+
+**Laiyi Fu**, Jiachun Li, Ruiqi Wang, Hequan Sun, and Danyang Wu. *Nucleic Acids Research* (2026, in press).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics, 2026</div><img src='images/publications/biased-multiview.jpg' alt="Biased multi-view contrastive learning graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Biased Multi-view Contrastive Learning with Attentive Masking for Spatial Transcriptomic Analysis](https://doi.org/10.1093/bib/bbag215)
+
+**Laiyi Fu**, Wenkai Cui, Yifan Chen, Danyang Wu and Hequan Sun. *Briefings in Bioinformatics* (2026).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science, 2026</div><img src='images/publications/s3rl.png' alt="S3RL graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[S3RL: Enhancing Spatial Single-Cell Transcriptomics With Separable Representation Learning](https://doi.org/10.1002/advs.202516178)
+
+**Laiyi Fu**, Penglei Wang, Gaoyuan Xu, Jitao Lu, Qinke Peng, Danyang Wu and Hequan Sun. *Advanced Science* (2026).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics, 2025</div><img src='images/publications/dual-balanced.jpg' alt="Dual balanced augmented topological framework graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual Balanced Augmented Topological Non-coding RNA Disease Association in Heterogeneous Graphs](https://doi.org/10.1093/bib/bbaf389)
+
+**Laiyi Fu**, Yangyi Zhou, Hongqiang Lyu and Hequan Sun. *Briefings in Bioinformatics* (2025).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances, 2020</div><img src='images/publications/scfan.png' alt="scFAN graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting transcription factor binding in single cells through deep learning](https://doi.org/10.1126/sciadv.aba9031)
+
+**Laiyi Fu**, Lihua Zhang, Emmanuel Dollinger, Qinke Peng, Qing Nie<sup>*</sup> and Xiaohui Xie<sup>*</sup>. *Science Advances* (2020).
+</div>
+</div>
+
+<small>* corresponding author.</small>
 
 <span class='anchor' id='appointments-education'></span>
 
