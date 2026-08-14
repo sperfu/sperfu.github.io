@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Laiyi Fu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-url                      : https://sperfu.github.io/sperfu
+title                    : "Laiyi Fu | AI for Science"
+description              : "Associate Professor at Xi'an Jiaotong University working on AI for science, bioinformatics, and intelligent breeding."
+url                      : https://sperfu.github.io
 repository               : "sperfu/sperfu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,10 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Laiyi Fu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Bio-AI"
+  avatar           : "headshot_150x180.jpg"
+  bio              : "Associate Professor | AI for Science"
   location         : "Xi'an, China"
-  employer         :
+  employer         : "Xi'an Jiaotong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5GT4MB4AAAAJ"
   email            : "laiyifu@xjtu.edu.cn"
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "sperfu"
   google_plus      :
   keybase          :
   instagram        :
