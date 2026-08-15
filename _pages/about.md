@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor at the School of Automation Science and Engineering, Xi'an Jiaotong University (XJTU), and a graduate supervisor in Control Science and Engineering. I co-lead the AI4Bread Lab, where we develop artificial intelligence for science (AI4S) methods and platforms at the intersection of life sciences, agriculture, and data-driven systems.
+I am an Associate Professor at the School of Automation Science and Engineering, Xi'an Jiaotong University (XJTU), and a graduate supervisor in Control Science and Engineering. I co-lead the [AI4Bread Lab](http://www.ai4bread.com), where we develop artificial intelligence for science (AI4S) methods and platforms at the intersection of life sciences, agriculture, and data-driven systems.
 
 My research spans bioinformatics, graph machine learning, and foundation models for science. Current interests include single-cell and multi-omics analysis, AI-enabled biomedicine, crop genomics and intelligent breeding, and trustworthy data-driven modelling for complex systems.
 
@@ -49,7 +49,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 
 UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction
 
-**Laiyi Fu**, Jiachun Li, Ruiqi Wang, Hequan Sun&#42; and Danyang Wu&#42;. *Nucleic Acids Research* (2026, in press).
+**Laiyi Fu**, Jiachun Li, Ruiqi Wang, Hequan Sun and Danyang Wu&#42;. *Nucleic Acids Research* (2026, in press).
 
 [Code](https://github.com/AI4Bread/UFold-X) · [Web server](https://ufold-x.ai4bread.com/) · [Data and software record](https://zenodo.org/records/20668404)
 </div>
@@ -93,7 +93,7 @@ UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Seconda
 
 [Parallel Seeds: From Foundation Models to Foundation Intelligence for Agricultural Sustainability](https://doi.org/10.1109/JAS.2024.124914)
 
-**Laiyi Fu**, Shunkang Ling, Danyang Wu&#42;, Mengzhen Kang, Fei-Yue Wang and Hequan Sun&#42;. *IEEE/CAA Journal of Automatica Sinica* (2025).
+**Laiyi Fu**, Shunkang Ling, Danyang Wu&#42;, Mengzhen Kang, Fei-Yue Wang&#42; and Hequan Sun&#42;. *IEEE/CAA Journal of Automatica Sinica* (2025).
 </div>
 </div>
 
