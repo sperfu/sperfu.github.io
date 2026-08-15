@@ -47,7 +47,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research, 2026</div><img src='images/publications/ufold-x.jpg' alt="UFold-X graphical abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction](https://scholar.google.com/scholar?q=%22UFold-X%3A+An+Enhanced+Dual+%26+Dynamic+U-Mamba+Model+for+Long-Range+RNA+Secondary+Structure+Prediction%22)
+UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction
 
 **Laiyi Fu**, Jiachun Li, Ruiqi Wang, Hequan Sun&#42; and Danyang Wu&#42;. *Nucleic Acids Research* (2026, in press).
 
