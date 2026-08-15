@@ -1,0 +1,26 @@
+{% if site.public_stats_endpoint %}
+<div class="page__visitor-stats" aria-live="polite" aria-label="Website visitor statistics">
+  <span>Page Views: <strong id="ga4_page_views">—</strong></span>
+  <span class="page__visitor-stats-separator" aria-hidden="true">|</span>
+  <span>Visitors: <strong id="ga4_visitors">—</strong></span>
+</div>
+<script>
+  (function () {
+    var pageViews = document.getElementById('ga4_page_views');
+    var visitors = document.getElementById('ga4_visitors');
+    var script = document.createElement('script');
+
+    window.renderGa4PublicStats = function (stats) {
+      if (!stats || stats.error) return;
+      pageViews.textContent = Number(stats.pageViews || 0).toLocaleString();
+      visitors.textContent = Number(stats.visitors || 0).toLocaleString();
+    };
+
+    if ('{{ site.public_stats_endpoint }}') {
+      script.async = true;
+      script.src = '{{ site.public_stats_endpoint }}?callback=renderGa4PublicStats';
+      document.head.appendChild(script);
+    }
+  }());
+</script>
+{% endif %}
