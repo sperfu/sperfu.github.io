@@ -16,6 +16,10 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      : "G-Z4K4H2SSDT"
 # Public, aggregate-only GA4 stats endpoint used by the footer.
 public_stats_endpoint    : "https://script.google.com/macros/s/AKfycbykFmqNCy8jOmL6H-3fqW4Y8l98s-WEPqhizUgkhggmKLhsIuaWocVry1YyX8pfp1ZD/exec"
+# Same-origin cached copy of the aggregate footer statistics.  This is refreshed
+# by GitHub Actions so visitors in networks where Google is unavailable still
+# see the most recently collected counts.
+public_stats_cache       : "/assets/data/visitor-stats.json"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about

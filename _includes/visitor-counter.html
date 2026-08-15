@@ -8,17 +8,35 @@
   (function () {
     var pageViews = document.getElementById('ga4_page_views');
     var visitors = document.getElementById('ga4_visitors');
-    var script = document.createElement('script');
+    var cacheUrl = '{{ site.public_stats_cache | relative_url }}';
+    var liveEndpoint = '{{ site.public_stats_endpoint }}';
 
-    window.renderGa4PublicStats = function (stats) {
+    function renderStats(stats) {
       if (!stats || stats.error) return;
       pageViews.textContent = Number(stats.pageViews || 0).toLocaleString();
       visitors.textContent = Number(stats.visitors || 0).toLocaleString();
-    };
+    }
 
-    if ('{{ site.public_stats_endpoint }}') {
+    // First load a cached, same-origin snapshot. It remains reachable in
+    // networks that cannot connect to Google services.
+    if (window.fetch && cacheUrl) {
+      window.fetch(cacheUrl, { cache: 'no-store' })
+        .then(function (response) {
+          if (!response.ok) throw new Error('Cached stats unavailable');
+          return response.json();
+        })
+        .then(renderStats)
+        .catch(function () {});
+    }
+
+    // Then use GA4's current aggregate values when Google is reachable. A
+    // failed request intentionally leaves the same-origin cached values intact.
+    window.renderGa4PublicStats = renderStats;
+
+    if (liveEndpoint) {
+      var script = document.createElement('script');
       script.async = true;
-      script.src = '{{ site.public_stats_endpoint }}?callback=renderGa4PublicStats';
+      script.src = liveEndpoint + '?callback=renderGa4PublicStats';
       document.head.appendChild(script);
     }
   }());
