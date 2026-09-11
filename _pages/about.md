@@ -28,6 +28,7 @@ I welcome enquiries from motivated undergraduate and graduate students who are i
 
 # News
 
+- *2026-09* — Our iPheno paper, introducing an open-source dual-aware vision-language model for multi-task fine-scale crop phenotyping, was published in *Plant Communications*.
 - *2026-08* — **UFold-X: An Enhanced Dual & Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction** was accepted for publication in *Nucleic Acids Research* and is now in press. Congrats to the team! 🥂
 - *2026-05* — A paper on biased multi-view contrastive learning with attentive masking for spatial transcriptomic analysis was published in *Briefings in Bioinformatics*.
 - *2026-01* — The S3RL framework for separable spatial single-cell transcriptome representation learning was officially published in *Advanced Science*.
@@ -43,6 +44,17 @@ Earlier updates are available in the [AI4BREAD news archive](http://www.ai4bread
 # Selected Publications
 
 Selected publications are listed chronologically, from newest to oldest. For a complete and up-to-date list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5GT4MB4AAAAJ).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plant Communications, 2026</div><img src='images/publications/ipheno.jpg' alt="iPheno model architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[iPheno: A Novel Dual-Aware Vision-Language Model for Multi-Task Fine-Scale Crop Phenotyping](https://www.sciencedirect.com/science/article/pii/S2590346226004049)
+
+**Laiyi Fu**, Hongbo Liu, Yanbo Han, Shunkang Ling, Hongming Zhang, Fei-Yue Wang, Danyang Wu&#42; and Hequan Sun&#42;. *Plant Communications* (2026).
+
+[Data](https://huggingface.co/datasets/AI4Bread/iPheno-120K) · [Web server](https://ipheno.ai4bread.com) · [Mobile app](https://www.ipheno.cn) · [PC client code](https://github.com/2997029323/iPheno-PC-Client)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research, 2026</div><img src='images/publications/ufold-x.jpg' alt="UFold-X graphical abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,17 +109,6 @@ UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Seconda
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances, 2020</div><img src='images/publications/scfan.png' alt="scFAN graphical abstract" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Predicting Transcription Factor Binding in Single Cells Through Deep Learning](https://doi.org/10.1126/sciadv.aba9031)
-
-**Laiyi Fu**, Lihua Zhang, Emmanuel Dollinger, Qinke Peng, Qing Nie&#42; and Xiaohui Xie&#42;. *Science Advances* (2020).
-
-[Code](https://github.com/sperfu/scFAN)
-</div>
-</div>
-
 <small>&#8224; Co-first authors; &#42; corresponding authors.</small>
 
 <details class="publication-archive">
@@ -132,6 +133,17 @@ UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Seconda
 **Yingxin Cao&#8224;**, **Laiyi Fu&#8224;**, Jie Wu, Qinke Peng, Qing Nie, Jing Zhang&#42; and Xiaohui Xie&#42;. *Nucleic Acids Research* (2022).
 
 [Code](https://github.com/uci-cbcl/SAILERX) · [Data](https://drive.google.com/drive/folders/1yQeF3Ch_yZg2hXRcTe9X30ilQB_qaRq1?usp=sharing)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances, 2020</div><img src='images/publications/scfan.png' alt="scFAN graphical abstract" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting Transcription Factor Binding in Single Cells Through Deep Learning](https://doi.org/10.1126/sciadv.aba9031)
+
+**Laiyi Fu**, Lihua Zhang, Emmanuel Dollinger, Qinke Peng, Qing Nie&#42; and Xiaohui Xie&#42;. *Science Advances* (2020).
+
+[Code](https://github.com/sperfu/scFAN)
 </div>
 </div>
 
