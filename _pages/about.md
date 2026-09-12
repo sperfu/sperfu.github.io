@@ -29,7 +29,7 @@ I welcome enquiries from motivated undergraduate and graduate students who are i
 # News
 
 - *2026-09* 🆕 — Our iPheno paper, introducing an open-source dual-aware vision-language model for multi-task fine-scale crop phenotyping, was published in *Plant Communications*. Congrats to the team! 🥂
-- *2026-08* 🆕 — **UFold-X: An Enhanced Dual & Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction** was accepted for publication in *Nucleic Acids Research* and is now in press. Congrats to the team! 🥂
+- *2026-08* 🆕 — UFold-X: An Enhanced Dual & Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction was accepted for publication in *Nucleic Acids Research* and is now in press. Congrats to the team! 🥂
 - *2026-05* 🆕 — A paper on biased multi-view contrastive learning with attentive masking for spatial transcriptomic analysis was published in *Briefings in Bioinformatics*.
 - *2026-01* 🆕 — The S3RL framework for separable spatial single-cell transcriptome representation learning was officially published in *Advanced Science*.
 - *2025-11* — The AI4Bread team published a Multi-level Interactive Siamese-Filtering Enhancement and Restoration (MISFR) network for low-light architectural mural imaging in *Frontiers of Architectural Research*.
@@ -59,7 +59,7 @@ Selected publications are listed chronologically, from newest to oldest. For a c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nucleic Acids Research, 2026</div><img src='images/publications/ufold-x.jpg' alt="UFold-X graphical abstract" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction
+[UFold-X: An Enhanced Dual &amp; Dynamic U-Mamba Model for Long-Range RNA Secondary Structure Prediction](https://doi.org/10.1093/nar/gkag887)
 
 **Laiyi Fu**, Jiachun Li, Ruiqi Wang, Hequan Sun and Danyang Wu&#42;. *Nucleic Acids Research* (2026, in press).
 
